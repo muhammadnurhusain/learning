@@ -19,6 +19,12 @@ const books = [
     author: "Audible Audiobook 3",
     img: "https://m.media-amazon.com/images/I/71ki8f20R7S._AC_UL480_FMwebp_QL65_.jpg",
   },
+  {
+    id: 4,
+    title: "Anxious People: A Novel 3",
+    author: "Audible Audiobook 3",
+    img: "https://m.media-amazon.com/images/I/71ki8f20R7S._AC_UL480_FMwebp_QL65_.jpg",
+  },
 ];
 
 function IndexBasic() {
